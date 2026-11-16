@@ -157,6 +157,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **OffSeq Breach** | Leaked-credential monitoring for your company domains across breach datasets, forums and Telegram. | [50% off the first billing period with code BLACK, until Dec 2](https://breach.offseq.com/en#pricing) |
 | **OffSeq Mirage** | Honeypot threat intelligence: run decoys and see who targets you, with STIX and MISP exports. | [50% off the first 3 months of any plan, code BFCM2026 pre-filled, until Nov 30](https://mirage.offseq.com/pricing) |
 | **OffSeq Pulse** | EU-hosted device posture and NIS2/CIS compliance for Windows, macOS and Linux. | [50% off the first year or month for new customers, applied automatically, until Dec 2](https://pulse.offseq.com/pricing) |
+| **DailyRemote** | Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts. | [39% off Premium monthly, quarterly and yearly plans with code BFBNRTZSY, Nov 12 - Dec 1](https://dailyremote.com/get-started) |
 
 ## 🎓 Learning & Online Courses
 

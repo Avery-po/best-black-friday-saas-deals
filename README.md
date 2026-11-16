@@ -66,6 +66,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **InMotion Hosting** | Fast, reliable shared and dedicated web hosting. | [*[Deal TBA]*](https://connect.inmotionhosting.com/deal) |
 | **Plesk** | WebOps platform and server management control panel. | [*[Deal TBA]*](https://try.plesk.com/coupon) |
 | **Kinsta** | Fast, secure, feature-rich managed hosting for WordPress, secured by Cloudflare. | [3 months free on annual plans / 50% off first 3 months on monthly plans](https://kinsta.com/black-friday/?kaid=JMUAXHHCMJDL) |
+| **Guard by OffSeq** | Website security and NIS2/GDPR compliance scanning, free scan without an account plus continuous monitoring. | [50% off the full report and the first month of monitoring, applied automatically, until Dec 1](https://guard.report/monitoring) |
 
 ## 🔍 SEO, Analytics & Advertising
 
@@ -94,6 +95,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **KeyScreen** | Shows the keys you press on screen for tutorials, streams, and demos (Mac). | [30% off with code KEYSCREEN30, Nov 18 - Dec 2 (direct purchase from the website)](https://keyscreen.app) |
 | **Sip** | Modern color picker for macOS to collect, organize, edit, and share colors and palettes. | [50% off with code `BLACKFRIDAY26`, Nov 27–29](https://sipapp.io/blackfriday/) and code `CYBERMONDAY26`, [Nov 30–Dec 2](https://sipapp.io/cybermonday/) |
 | **Renderly** | Video rendering API: send a JSON template and your data, get an MP4 back, with a browser editor and AI captions. | [30% off the first payment of a new Creator or Business subscription, code BLACKFRIDAY2026, Nov 27 - Dec 1](https://renderly.video/pricing) |
+| **ScreenSage Pro** | Native macOS screen recorder/editor with automatic cursor-following zoom and camera layouts for product demos. | [Up to 53% off one-time licenses (BFS2026L / BFS2026P), Nov 4–Dec 15](https://screensage.pro/bf2026?ref=carmentune2026) |
 
 ## 🤖 Automation, Chatbots & AI Tools
 
@@ -150,6 +152,10 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Signable** | Simple and secure electronic signature solution. | [*[Deal TBA]*](https://try.signable.co.uk/try-for-free) |
 | **Proton** | Privacy-first encrypted email and VPN services. | [*[Deal TBA]*](https://now.getproton.me/4fqhzkz1ve4y-ojmzz6) |
 | **Miro** | Collaborative digital workspace and online whiteboard. | [*[Deal TBA]*](https://ps.miro-affiliate.com/deals) |
+| **OffSeq Threat Radar** | Live CVE, CISA KEV and exploit intelligence with API, MCP server, SBOM scans and alerts. | [50% off the first month or first year of any plan, applied automatically, until Dec 1](https://radar.offseq.com/pricing) |
+| **OffSeq Breach** | Leaked-credential monitoring for your company domains across breach datasets, forums and Telegram. | [50% off the first billing period with code BLACK, until Dec 2](https://breach.offseq.com/en#pricing) |
+| **OffSeq Mirage** | Honeypot threat intelligence: run decoys and see who targets you, with STIX and MISP exports. | [50% off the first 3 months of any plan, code BFCM2026 pre-filled, until Nov 30](https://mirage.offseq.com/pricing) |
+| **OffSeq Pulse** | EU-hosted device posture and NIS2/CIS compliance for Windows, macOS and Linux. | [50% off the first year or month for new customers, applied automatically, until Dec 2](https://pulse.offseq.com/pricing) |
 
 ## 🎓 Learning & Online Courses
 

@@ -33,7 +33,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Listmonk** | High-performance newsletter and mailing list manager. | [Free / Self-hosted](https://listmonk.app) |
 | **Cal.com** | Open-source scheduling infrastructure and booking tool. | [Free / Open Core](https://cal.com) |
 | **Lusha** | B2B contact database and sales intelligence platform. | [*[35% off annual subscriptions (Holiday Special) or up to 40% off the Pro Annual plan.]*](https://partnerstack.lusha.com/pkg6s1a4597a-omvn4r) |
-| **GetResponse** | Comprehensive email marketing and automation software. | [*[30% off yearly plans and 15% off monthly plans (valid November 20 – December 2)]*](https://try.getresponsetoday.com/coupon) |
+| **GetResponse** | Comprehensive email marketing and automation software. | [*[Up to 40% OFF]*](https://try.getresponsetoday.com/coupon) |
 | **Reply.io** | AI-powered sales engagement and cold outreach platform. | [*[Deal TBA]*](https://get.reply.io/coupon) |
 | **Amplemarket** | All-in-one revenue platform for B2B sales. | [*[Deal TBA]*](https://grow.amplemarket.com/try-for-free) |
 | **Book Your Data** | Accurate B2B email lists and contact database. | [*[Deal TBA]*](https://join.bookyourdata.com/discount) |

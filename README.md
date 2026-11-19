@@ -140,6 +140,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 
 | Platform | Description | 2026 Deal |
 |---|---|---|
+| **Bitdefender** | Business cybersecurity, endpoint protection, and threat defense suite (GravityZone). | [70% off all Bitdefender GravityZone products](https://get.bitdefender.com/black-friday) |
 | **Monday.com** | Cloud work operating system for task tracking and projects. | [*[Up to 70% off CRM, automations, and project tools]*](https://try.monday.com/deals) |
 | **Deel** | International hiring, compliance, contractor contracts, and payroll. | [*[Deal TBA]*](https://get.deel.com/coupon) |
 | **Impact** | Global affiliate partnership tracking and commission management. | [*[Deal TBA]*](https://impact-referral-partnerships.sjv.io/dyg213) |

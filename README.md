@@ -80,7 +80,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Ahrefs Webmaster Tools** | Site audit and backlink checker for verified site owners. | [Free tier](https://ahrefs.com/awt) |
 | **AgencyAnalytics** | Automated reporting software for marketing agencies. | [*[Deal TBA]*](https://try.agencyanalytics.com/free-trial) |
 | **Brand24** | AI-driven social listening and brand management tool. | [*[3 months free when choosing annual billing]*](https://try.brand24.com/voucher) |
-| **Appfigures** | ASO and App Intelligence for the App Store and Google Play: competitor keywords, custom product pages, and download and revenue estimates. | [50% off monthly or annual plans for 12 months with code BF2650 (up to $200/mo off), Nov 23 - Nov 30](https://appfigures.com/account/upgrade?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=carmentune&p=BF2650) |
+| **Appfigures** | ASO and App Intelligence for the App Store and Google Play: competitor keywords, custom product pages, and download and revenue estimates. | [50% off monthly or annual plans for 12 months with code BF2650 (up to $200/mo off), Nov 23 - Nov 30](https://appfigures.com/platform/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=carmentune) |
 
 ## 🎨 Design & Video Creators
 

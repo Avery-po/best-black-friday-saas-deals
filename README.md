@@ -82,6 +82,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Brand24** | AI-driven social listening and brand management tool. | [*[3 months free when choosing annual billing]*](https://try.brand24.com/voucher) |
 
 ## 🎨 Design & Video Creators
+| **YIX** | Create and edit images and generate videos from text or photos in your browser. | [50% off the first month of all monthly plans, applied automatically. Nov 20, 2026 00:00 UTC to Dec 1, 2026 00:00 UTC (exclusive). Starter $9.95 → $19.90/mo, Pro $24.95 → $49.90/mo, Max $49.95 → $99.90/mo (USD).](https://yix.ai/pricing) |
 
 | Platform | Description | 2026 Deal |
 |---|---|---|

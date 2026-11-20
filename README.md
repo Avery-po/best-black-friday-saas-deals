@@ -50,6 +50,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Shopify** | Complete e-commerce commerce platform and point-of-sale system. | [*[Deal TBA]*](https://shopify.pxf.io/5gr3Pb) |
 | **AliDropship** | Automated dropshipping plugin and store builder for WordPress. | [*[Up to 25% off select plugins with code EXPRESS25 or 15% off with code MERCURY15]*](https://get.alidrop.co/coupon) |
 | **Printify** | Print-on-demand fulfillment network for automated merchandise. | [*[Deal TBA]*](https://try.printify.com/coupon-code) |
+| **BundleWP** | Complete business software bundle — all 11 products in one package: ShopKart e-commerce system, FoodFleet restaurant system, Billify billing software, WordPress plugins & tools. Lifetime access, license keys delivered automatically. | [$129 for all 11 products (regular total $1,029, 87% off) with code BUNDLE129 — Black Friday offer ends 1 December 2026](https://bundlewp.com/complete-business-software-bundle/) |
 
 ## 🌐 Website Builders & Hosting
 

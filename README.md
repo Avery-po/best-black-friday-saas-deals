@@ -58,6 +58,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 |---|---|---|
 | **Elementor Pro** | Drag-and-drop visual page builder for WordPress. | [Up to 40% off](https://be.elementor.com/visit/?bta=204490&nci=5352) |
 | **Hostinger** | Managed web hosting, VPS, and cloud infrastructure. | [Up to 87% off + 10% off with code BLACKFRIDAY](https://www.hostg.xyz/SHI0u) |
+| **UltaHost** | Fast, secure shared, VPS, and dedicated web hosting with NVMe SSD and free DDoS protection. | [Up to 70% off hosting (lock your price for 3 years)](https://partnerstack.ultahost.com/coupon) |
 | **ClickFunnels** | Sales funnel builder and conversion marketing software. | [Scale plan for $99/3mo](https://www.clickfunnels.com/pricing?aff=plans) |
 | **Leadpages** | High-converting landing page and lead capture builder. | [*[Up to 60% off annual plans, including $300 off the Pro Plan.]*](https://try.leadpages.com/iycxgq5f3u37-pricing) |
 | **Bluehost** | WordPress-recommended shared and cloud web hosting. | [*[Up to 25% off hosting & AI bundles]*](https://bluehost.sjv.io/5kEWvn) |
@@ -149,6 +150,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 |---|---|---|
 | **Bitdefender** | Business cybersecurity, endpoint protection, and threat defense suite (GravityZone). | [70% off all Bitdefender GravityZone products](https://get.bitdefender.com/black-friday) |
 | **Monday.com** | Cloud work operating system for task tracking and projects. | [*[Up to 70% off CRM, automations, and project tools]*](https://try.monday.com/deals) |
+| **Optery** | Personal and business data removal service that scans and opts you out of hundreds of data broker sites. | [20% off with code FALL2026 (plus 17% off annual plans)](https://get.optery.com/promo) |
 | **Deel** | International hiring, compliance, contractor contracts, and payroll. | [*[Deal TBA]*](https://get.deel.com/coupon) |
 | **Impact** | Global affiliate partnership tracking and commission management. | [*[Deal TBA]*](https://impact-referral-partnerships.sjv.io/dyg213) |
 | **AppFlowy** | Open-source workspace alternative to Notion. | [100% Free](https://appflowy.io) |

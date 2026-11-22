@@ -143,6 +143,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Gravity** | Integrated merchant processing and business banking services. | [*[40% off Gravity Forms Elite and Gravity Flow Ultimate (valid November 23 – December 1)]*](https://try.gravity.com/coupon) |
 | **BILL** | Automated financial operations and accounts payable. | [*[Deal TBA]*](https://referral.bill.com/promo) |
 | **Dext** | Accounting automation for data extraction and bookkeeping. | [15% off for 12 months](https://join.dext.com/coupon) |
+| **Options Matrix Pro** | Options strategy visualizer, scanners and trade journal for retail options traders. | [50% off every plan: first year on annual, first 3 months on monthly. No code needed. Nov 23 to 30, 2026](https://www.optionsmatrixpro.com/black-friday) |
 
 ## 💼 Business, Management & HR
 

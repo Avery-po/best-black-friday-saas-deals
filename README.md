@@ -117,7 +117,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Manychat** | Automated chat marketing for WhatsApp, Instagram, and SMS. | [50% off first 2 months of Pro](https://manychat.partnerlinks.io/50) |
 | **Typeform** | Conversational forms, surveys, and quizzes. | [20% off annual plans](https://typeform.partnerlinks.io/free-trial) |
 | **Landbot** | No-code chatbot platform for websites and messaging apps. | [*Deal TBA*](https://get.landbotlab.com/06nxjsewp38c) |
-| **Tidio** | Live chat solution powered by integrated AI support agents. | [Get Lyro AI Agent for $1 (99% off AI costs for 2 months)](https://tidio.pxf.io/ai) |
+| **Tidio** | Live chat solution powered by integrated AI support agents. | [Get Lyro AI Agent for $1 (99% off AI costs for 2 months)](https://affiliate.tidio.com/black-friday) |
 | **Ollama** | Run large language models locally on macOS, Linux, and Windows. | [100% Free](https://ollama.com) |
 | **Dify** | Visual agent orchestration and LLM application development. | [Free / Self-hosted](https://dify.ai) |
 | **airSlate** | End-to-end document workflow and business automation. | [Save $144 – $240 on annual SignNow Starter and Business plans](https://partnerstack.signnow.com/coupons) |

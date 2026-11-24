@@ -190,6 +190,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Udemy** | Massive marketplace for tech, business, and development courses. | [Courses discounted to $9.99 – $15.99 for BFCM](https://trk.udemy.com/homepage) |
 | **Domestika** | Curated practical courses for designers, illustrators, and creatives. | [*Deal TBA*](https://domestika.sjv.io/eKxENX) |
 | **LearnWorlds** | Platform to create, market, and sell online courses easily. | [Up to 39% off Learning Center plans (Early Bird ends Nov 23, 11:59 PM PST)](https://get.learnworlds.com/coupon) |
+| **VibeShield** | Read-only 6-phase pre-launch security scanner (116 checks) for AI-built & modern web apps (Next.js, Vercel, Lovable, Bolt, Cursor, Supabase): detects JS bundle secret leaks, missing security headers, weak CSP & Supabase RLS gaps with zero signup. | [78% OFF one-time ($9 → $2) · 83% OFF 3-App Suite ($29 → $5), auto-applied](https://vibe-checker.appwrite.network/) |
 
 ---
 *Disclaimer: Some of the URLs in this repository may be affiliate links. If you purchase through them, we may earn a small commission at no additional cost to you. We only list verified, reputable tools.*

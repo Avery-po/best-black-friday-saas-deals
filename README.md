@@ -67,7 +67,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Coolify** | Self-hosted, privacy-first alternative to Heroku, Vercel, and Netlify. | [Free / Self-hosted](https://coolify.io) |
 | **Ghost** | Modern publishing platform for blogs, newsletters, and subscriptions. | [Free / Open Core](https://ghost.org) |
 | **Gravity Forms** | Advanced drag-and-drop form builder for WordPress. | [40% off Gravity Forms Elite and Gravity Flow Ultimate, Nov 23 – Dec 1](https://try.gravity.com/coupon) |
-| **InMotion Hosting** | Fast, reliable shared, cloud, and dedicated web hosting. | [Up to 70% off shared, up to 17% off dedicated, and 50% off cloud plans, through Dec 1](https://connect.inmotionhosting.com/deal) |
+| **InMotion Hosting** | Fast, reliable shared, cloud, and dedicated web hosting. | [Up to 70% off shared, up to 17% off dedicated, and 50% off cloud plans, through Dec 1](https://partners.inmotionhosting.com/deal) |
 | **Plesk** | WebOps platform and server management control panel. | [50% off Plesk licenses, Nov 23 – Dec 7](https://try.plesk.com/coupon) |
 | **Kinsta** | Managed WordPress hosting powered by Cloudflare. | [3 months free on annual plans or 50% off first 3 months on monthly plans](https://kinsta.com/black-friday/?kaid=JMUAXHHCMJDL) |
 | **Guard by OffSeq** | Website security and NIS2/GDPR compliance scanning with continuous monitoring. | [50% off full report and first month of monitoring, auto-applied, through Dec 1](https://guard.report/monitoring) |
@@ -167,7 +167,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Baserow** | Collaborative database platform and alternative to Airtable. | [Free / Self-hosted](https://baserow.io) |
 | **Bókun** | Tour and activity booking management software. | [*Deal TBA*](https://join.bokun.io/promo-code) |
 | **MRPeasy** | Cloud-based MRP and ERP software for small manufacturers. | [*Deal TBA*](https://try.mrpeasy.com/free-trial) |
-| **Shopmonkey** | Auto repair shop management and invoicing software. | [*Deal TBA*](https://get.shopmonkey.io/free-trial) |
+| **Shopmonkey** | Auto repair shop management and invoicing software. | [25% off Shopmonkey, through Nov 30](https://get.shopmonkey.io/free-trial) |
 | **ABC Trainerize** | Personal training and fitness business management app. | [*Deal TBA*](https://getstarted.trainerize.com/discount) |
 | **Katana** | Cloud inventory software for manufacturing businesses. | [*Deal TBA*](https://psref.katanamrp.com/promo-code) |
 | **Passpack** | Secure team password manager and collaboration tool. | [*Deal TBA*](https://try.passpack.com/promo) |
@@ -187,7 +187,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | Platform | Description | 2026 Deal |
 |---|---|---|
 | **Coursera** | Professional certificates and university-accredited degree courses. | [40% off first year of a Coursera Plus annual subscription](https://coursera.pxf.io/EaYa0n) |
-| **Udemy** | Massive marketplace for tech, business, and development courses. | [Courses discounted to $9.99 – $15.99 for BFCM](https://trk.udemy.com/homepage) |
+| **Udemy** | Massive marketplace for tech, business, and development courses. | [Up to 85% off Udemy courses](https://trk.udemy.com/homepage) |
 | **Domestika** | Curated practical courses for designers, illustrators, and creatives. | [*Deal TBA*](https://domestika.sjv.io/eKxENX) |
 | **LearnWorlds** | Platform to create, market, and sell online courses easily. | [Up to 39% off Learning Center plans (Early Bird ends Nov 23, 11:59 PM PST)](https://get.learnworlds.com/coupon) |
 

@@ -89,6 +89,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Appfigures** | ASO and App Intelligence for App Store and Google Play with keyword, download, and revenue tracking. | [50% off monthly or annual plans for 12 months with code `BF2650` (up to $200/mo off), Nov 23 – Nov 30](https://appfigures.com/platform/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=carmentune) |
 | **RightBlogger** | AI blog writer with WordPress/CMS publishing and Search Console optimization alerts. | [50% off every annual plan for life, no code needed, through Dec 1](https://rightblogger.com/pricing?offer=bf2026&utm_source=carmentune) |
 | **Toplify** | App Store chart monitoring for developers across 175 countries (iOS and macOS). | [$49.99 for Pro Lifetime (reg. $89.99), App Store code `BLKFR2026`, Nov 15 – Dec 1](https://toplify.app/) |
+| **KittyTrace** | Self-hosted error tracking for web and backend apps that works with the Sentry SDK, on your own Cloudflare account or a Docker server. | [34% off the one-time license with code `BF2026` ($29 -> $19, no subscription), Nov 17 - Dec 1](https://kittytrace.com/?utm_source=carmentune&utm_campaign=bf2026) |
 
 ## 🎨 Design & Video Creators
 

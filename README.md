@@ -108,6 +108,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **YIX** | Browser-based AI image creation/editing and text/photo-to-video generator. | [50% off first month on all monthly plans, auto-applied (Starter $9.95, Pro $24.95, Max $49.95; then reg. price), Nov 20 – Dec 1 UTC](https://yix.ai/pricing) |
 | **Motionflare** | URL-to-marketing-video generator using your real screenshots, logo, colors, and copy. | [50% off first month of Pro ($14.50) or Max ($49.50), no code needed, Nov 21 – Dec 1](https://motionflare.ai/pricing) |
 | **Oil Studio** | Native Apple Silicon (macOS 15+) screen recorder and video editor with auto-zoom, local Whisper transcript cutting, and CLI/Agent Skill. | [20% off with code `BFCM2026` ($31.20 one-time for 2 Macs; reg. $49), Nov 20 – Dec 2](https://studio.oiloil.org/en/) |
+| **Wispim** | Teleprompter for iPhone, iPad and Mac that follows your voice: the script scrolls as you speak and waits while you pause. | [50% off Lifetime Pro, a one-time purchase: $99.99 instead of $199.99, no code needed, Nov 27 - Nov 30](https://wispim.com/black-friday) |
 
 ## 🤖 Automation, Chatbots & AI Tools
 
@@ -182,6 +183,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **OffSeq Pulse** | EU-hosted device posture and NIS2/CIS compliance for Windows, macOS, and Linux. | [50% off first year or month for new customers, auto-applied, through Dec 2](https://pulse.offseq.com/pricing) |
 | **DailyRemote** | Remote job board with fast listings, salary filters, and daily alerts. | [39% off Premium monthly, quarterly, and yearly plans with code `BFBNRTZSY`, Nov 12 – Dec 1](https://dailyremote.com/get-started) |
 | **Inkfree** | Team eSignature platform with signing order, templates, bulk send, and sealed audit trails. | [70% off first year (annual) or 60% off first 3 months (monthly), auto-applied, Nov 16 – Dec 14](https://inkfree.app/signature-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) |
+| **CVder** | AI job application tool: paste a job posting and CVder tailors your CV to it, checks the ATS score and writes the cover letter. | [50% off your first payment on any Pro plan with code BF2026: monthly €14 → €7, annual €84 → €42, Nov 27 - Dec 1](https://cvder.app/pricing) |
 
 ## 🎓 Learning & Online Courses
 

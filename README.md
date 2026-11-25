@@ -61,7 +61,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Elementor Pro** | Drag-and-drop visual page builder for WordPress. | [Up to 40% off](https://be.elementor.com/visit/?bta=204490&nci=5352) |
 | **Hostinger** | Managed web hosting, VPS, and cloud infrastructure. | [Up to 87% off + extra 10% off with code `BLACKFRIDAY`](https://www.hostg.xyz/SHI0u) |
 | **UltaHost** | Fast, secure shared, VPS, and dedicated hosting with NVMe SSD and free DDoS protection. | [Up to 70% off hosting (lock your price for 3 years)](https://partnerstack.ultahost.com/coupon) |
-| **ClickFunnels** | Sales funnel builder and conversion marketing software. | [Scale plan for $99 for 3 months](https://www.clickfunnels.com/pricing?aff=plans) |
+| **ClickFunnels** | Sales funnel builder and conversion marketing software. | [4 months free on an annual plan, plus Overskill credits](https://www.clickfunnels.com/pricing?aff=plans) |
 | **Leadpages** | High-converting landing page and lead capture builder. | [Up to 60% off annual plans, including $300 off the Pro plan](https://try.leadpages.com/iycxgq5f3u37-pricing) |
 | **Bluehost** | WordPress-recommended shared and cloud web hosting. | [Up to 25% off hosting & AI bundles](https://bluehost.sjv.io/5kEWvn) |
 | **HostGator** | Shared hosting, dedicated servers, and domain services. | [Extra 15% off one eligible 1-year product, or 20% off two](https://hostgator.pvxt.net/VO9JMR) |

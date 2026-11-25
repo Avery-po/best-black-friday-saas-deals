@@ -138,6 +138,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Enconvo** | Native macOS AI assistant and agent for app automation, dictation, document search, and cloud/local models. | [30% off Lifetime licenses (Standard $41.30, Premium $83.30, Teams $111.30) + 30% off first Cloud payment, no code, Nov 20 – Dec 7](https://enconvo.com/?utm_source=github-carmentune&utm_medium=deal-list&utm_campaign=black-friday-2026) |
 | **SaaScaffold** | Agent-first TypeScript SaaS starter for Cloudflare Workers with 40 runbooks, payments, AI providers, and admin center. | [50% off Early Access one-time license ($99 → $49), auto-applied, Nov 21 – Dec 6](https://saascaffold.com/pricing) |
 | **ImagineYourBook** | AI book writer that plans and drafts full-length novels with a cover, then exports to Word, EPUB, or Markdown. | [Pay-once novel credit packs: Duet (2 novels) $59, Series (5 novels) $119 + 1 novel to give away, Library (10 novels) $199 + 1 novel to give away. Normal price $5 a credit, a novel up to 80,000 words is 16 credits, credits never expire, no code, through Nov 30 (11:59 PM PT)](https://www.imagineyourbook.com/blackfriday) |
+| **Grai** | Offline cadence gate that flags AI-writing tells in drafts before clients do, with a live verification link for client work. | [30% off your first billing cycle on Solo Offline ($79/yr) and Agency Protocol ($99/mo, $790/yr) with code BF2026, Nov 24 to Nov 30, 2026](https://grai.page) |
 
 ## 📞 Communication & VoIP
 

@@ -72,6 +72,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Kinsta** | Managed WordPress hosting powered by Cloudflare. | [3 months free on annual plans or 50% off first 3 months on monthly plans](https://kinsta.com/black-friday/?kaid=JMUAXHHCMJDL) |
 | **Guard by OffSeq** | Website security and NIS2/GDPR compliance scanning with continuous monitoring. | [50% off full report and first month of monitoring, auto-applied, through Dec 1](https://guard.report/monitoring) |
 | **Zerodirs** | SEO-first directory boilerplate for AI coding agents and Cloudflare with $0/mo hosting. | [73% off lifetime payment, auto-applied, through Dec 20](https://zerodirs.com/#pricing) |
+| **Miget** | Cloud platform for apps, databases and workers on one compute plan, with no per-app fees. | [33% off a new workspace for 12 months with code `BLACKFRIDAY26`, Nov 27 - Nov 30](https://miget.com/plans?utm_source=carmentune&utm_medium=deal-list&utm_campaign=bf2026) |
 
 ## 🔍 SEO, Analytics & Advertising
 

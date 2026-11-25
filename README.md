@@ -112,6 +112,7 @@ Welcome to the curated directory for the **best Black Friday SaaS deals 2026**. 
 | **Oil Studio** | Native Apple Silicon (macOS 15+) screen recorder and video editor with auto-zoom, local Whisper transcript cutting, and CLI/Agent Skill. | [20% off with code `BFCM2026` ($31.20 one-time for 2 Macs; reg. $49), Nov 20 – Dec 2](https://studio.oiloil.org/en/) |
 | **Wispim** | Teleprompter for iPhone, iPad and Mac that follows your voice: the script scrolls as you speak and waits while you pause. | [50% off Lifetime Pro, a one-time purchase: $99.99 instead of $199.99, no code needed, Nov 27 - Nov 30](https://wispim.com/black-friday) |
 | **Shorvo** | Windows desktop app that turns a script into a finished vertical YouTube Short (footage, AI voiceover and captions); first 3 videos free. | [40% off Pro Lifetime, a one-time license: $77.40 instead of $129 with code `BF40`, until Dec 10](https://shorvostudio.com/?utm_source=bfdeals_carmentune&utm_medium=listing&utm_campaign=bf40) |
+| **FireCut** | AI video editing plugin for Premiere Pro & DaVinci Resolve. | [50% off new annual plans (Max $29.50/mo vs $59, Pro $17/mo vs $34, billed yearly), no code needed, until Nov 30](https://firecut.ai/pricing/all/) |
 
 ## 🤖 Automation, Chatbots & AI Tools
 
